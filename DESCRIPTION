@@ -1,4 +1,4 @@
-Package: add_three
+Package: add_three_package
 Type: Package
 Title: Arithmetic
 Version: 0.9
@@ -8,4 +8,5 @@ Depends: R (>= 3.4.0)
 Imports: NIL
 License: GPL-2
 Author: Dolapo Salim Olatoye [aut, cre],
+
 Maintainer: Dolapo Salim Olatoye <dolaposalim@gmail.com>
